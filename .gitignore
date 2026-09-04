@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.local.json
+evidence/private/
